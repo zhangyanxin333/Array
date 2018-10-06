@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-</head>
-
-<body>
-
-</body>
-
-</html>
-<script>
     var arr = [1, 1, 1, 1, 2, 2, 2, 3, 4, 4, 62, 4, 3, 345, 43532, 345, 7]
 
     function removeRepeat1(arr) {
@@ -78,4 +63,3 @@
         return newarr;
     }
     console.log(removeRepeat5(arr))    
-</script>
